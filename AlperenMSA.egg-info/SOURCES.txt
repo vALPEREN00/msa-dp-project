@@ -1,0 +1,8 @@
+setup.py
+AlperenMSA.egg-info/PKG-INFO
+AlperenMSA.egg-info/SOURCES.txt
+AlperenMSA.egg-info/dependency_links.txt
+AlperenMSA.egg-info/requires.txt
+AlperenMSA.egg-info/top_level.txt
+msa/__init__.py
+msa/align.py
