@@ -1,3 +1,4 @@
+deneme.py
 setup.py
 AlperenMSA.egg-info/PKG-INFO
 AlperenMSA.egg-info/SOURCES.txt
@@ -6,3 +7,5 @@ AlperenMSA.egg-info/requires.txt
 AlperenMSA.egg-info/top_level.txt
 msa/__init__.py
 msa/align.py
+msa/__pycache__/__init__.cpython-313.pyc
+msa/__pycache__/align.cpython-313.pyc
