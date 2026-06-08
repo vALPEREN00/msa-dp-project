@@ -1,8 +1,8 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="AlperenMSA", 
-    version="0.1.0",
+    name="alperenmsa", 
+    version="0.1.1",
     author="Adın Soyadın",
     author_email="mailadresin@email.com",
     description="Dinamik Programlama ile Çoklu Dizi Hizalaması (MSA) paketi",

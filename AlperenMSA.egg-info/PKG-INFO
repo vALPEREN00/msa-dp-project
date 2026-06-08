@@ -1,6 +1,6 @@
-Metadata-Version: 2.2
-Name: AlperenMSA
-Version: 0.1.0
+Metadata-Version: 2.1
+Name: alperenmsa
+Version: 0.1.1
 Summary: Dinamik Programlama ile Çoklu Dizi Hizalaması (MSA) paketi
 Author: Adın Soyadın
 Author-email: mailadresin@email.com
@@ -9,14 +9,5 @@ Classifier: License :: OSI Approved :: MIT License
 Classifier: Operating System :: OS Independent
 Requires-Python: >=3.6
 Description-Content-Type: text/markdown
-Requires-Dist: numpy
-Dynamic: author
-Dynamic: author-email
-Dynamic: classifier
-Dynamic: description
-Dynamic: description-content-type
-Dynamic: requires-dist
-Dynamic: requires-python
-Dynamic: summary
 
 Bu kütüphane biyoinformatik bahar dönemi projesi kapsamında Needleman-Wunsch ve 3-Dizi DP hizalaması yapar.
